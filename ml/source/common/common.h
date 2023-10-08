@@ -9,6 +9,7 @@ public:
 
 	inline static const unsigned int ySize{ window.getSize().y };
 	inline static const unsigned int xSize{ window.getSize().x };
+	inline static sf::Font font;
 	inline static const unsigned int textSize{ static_cast<unsigned int>(ySize * 0.02f) };//2% of screen height
 
 	static float xNormalize(const unsigned int xPosition);

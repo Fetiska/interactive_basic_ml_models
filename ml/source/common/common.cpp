@@ -9,10 +9,7 @@ float common::denormalizeOutput(const float output) {
 }
 
 void common::print(const std::string text, const unsigned int yPosition) {
-	sf::Font font;
-	font.loadFromFile("source/font.ttf");
-
-	sf::Text displayText{text, font, textSize};
+	sf::Text displayText{ text, font, textSize };
 	displayText.setPosition(.0f, yPosition);
 
 	window.draw(displayText);
