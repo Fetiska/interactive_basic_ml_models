@@ -26,4 +26,4 @@
 wanted to add neural networks to this project and started doing that, but then decided to stop working on the project
 
 ## note
-started the project on may 9 2023, but uploaded only on october 7 2023
+started the project on 15 may 2023, but uploaded only on 7 october 2023
