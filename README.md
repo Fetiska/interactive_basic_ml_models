@@ -6,7 +6,7 @@
   - [linear binary classification](#linear-binary-classification)
   - [polynomial binary classification](#polynomial-binary-classification)
 - [dependencies](#dependencies)
-- [why Class Structure Is Unusual](#why-class-structure-so-weird)
+- [why class structure so weird](#why-class-structure-so-weird)
 - [note](#note)
 
 ## models
